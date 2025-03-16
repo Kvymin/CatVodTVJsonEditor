@@ -1,0 +1,32 @@
+{
+ "urls": [
+  {
+   "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/TVRule/TVBox/raw/config.json?ref=master&access_token=d3de122038bfc12c6c2a33cfdbb3799f05332f3d",
+   "name": "饭太硬"
+  }, 
+  {
+   "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/TVRule/TVBox/raw/config.json?ref=Dev&access_token=d3de122038bfc12c6c2a33cfdbb3799f05332f3d",
+   "name": "肥猫"
+  }, 
+  {
+   "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/TVRule/TVBox/raw/config.json?ref=main&access_token=d3de122038bfc12c6c2a33cfdbb3799f05332f3d",
+   "name": "小米"
+  }, 
+  {
+   "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/TVRule/TVBox/raw/config.json?ref=xBPQ&access_token=d3de122038bfc12c6c2a33cfdbb3799f05332f3d",
+   "name": "xBPQ"
+  }, 
+  {
+   "url": "https://git.acwing.com/kvymin/tvrule/-/raw/main/config.json",
+   "name": "蜜蜂"
+  }, 
+  {
+   "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/TVRule/TVBox/raw/collect.json?ref=master&access_token=d3de122038bfc12c6c2a33cfdbb3799f05332f3d",
+   "name": "采集"
+  }, 
+  {
+   "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/TVRule/TVBox/raw/pyramid/config.json?ref=master&access_token=d3de122038bfc12c6c2a33cfdbb3799f05332f3d",
+   "name": "python"
+  }
+ ]
+}
