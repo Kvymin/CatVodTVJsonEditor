@@ -1,0 +1,12 @@
+//https://kvymin.github.io/CatVodTVJsonEditor/
+{
+    "logo": "",
+    "sites": [
+        {
+            "key": "自动识别",
+            "name": "自动识别",
+            "type": 4,
+            "api": "https://kvymin.github.io/CatVodTVJsonEditor/自动识别.py"
+        }
+    ]
+}
